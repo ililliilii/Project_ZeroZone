@@ -36,7 +36,7 @@ public class WeaponPoint : MonoBehaviour
 
             if (W_LUCY)
             {
-                rotationOffset = new Vector3(0, 180, 0);
+                rotationOffset = new Vector3(0, 115, 75);
             }
         }
 
@@ -71,7 +71,7 @@ public class WeaponPoint : MonoBehaviour
             }
         }
 
-        if (Gunpoint)
+       /* if (Gunpoint)
         {
             if (Rifle)
             {
@@ -82,6 +82,6 @@ public class WeaponPoint : MonoBehaviour
             {
                 transform.position = target[0].position + Weapon_positionOffset[1];
             }
-        }
+        }*/
     }
 }

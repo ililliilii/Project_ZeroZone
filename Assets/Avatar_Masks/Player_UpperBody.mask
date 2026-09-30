@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player_UpperBody
+  m_Mask: 00000000000000000100000000000000000000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Belt3
+    m_Weight: 0
+  - m_Path: spine_3_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/L_pelvis_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/L_pelvis_JNT/L_knee_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/L_pelvis_JNT/L_knee_JNT/L_ankle_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/L_pelvis_JNT/L_knee_JNT/L_ankle_JNT/L_ball_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/L_pelvis_JNT/L_knee_JNT/L_ankle_JNT/L_ball_JNT/L_toe_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/L_pelvis_JNT/L_knee_JNT/L_ankle_JNT/L_heel_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/R_pelvis_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/R_pelvis_JNT/R_knee_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/R_pelvis_JNT/R_knee_JNT/R_ankle_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/R_pelvis_JNT/R_knee_JNT/R_ankle_JNT/R_ball_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/R_pelvis_JNT/R_knee_JNT/R_ankle_JNT/R_ball_JNT/R_toe_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/R_pelvis_JNT/R_knee_JNT/R_ankle_JNT/R_heel_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_index4_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_index4_JNT/L_index3_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_index4_JNT/L_index3_JNT/L_index2_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_index4_JNT/L_index3_JNT/L_index2_JNT/L_index1_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_middle4_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_middle4_JNT/L_middle3_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_middle4_JNT/L_middle3_JNT/L_middle2_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_middle4_JNT/L_middle3_JNT/L_middle2_JNT/L_middle1_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_pinky4_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_pinky4_JNT/L_pinky3_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_pinky4_JNT/L_pinky3_JNT/L_pinky2_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_pinky4_JNT/L_pinky3_JNT/L_pinky2_JNT/L_pinky1_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_ring4_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_ring4_JNT/L_ring3_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_ring4_JNT/L_ring3_JNT/L_ring2_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_ring4_JNT/L_ring3_JNT/L_ring2_JNT/L_ring1_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_thumb3_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_thumb3_JNT/L_thumb2_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/L_clavicle_JNT/L_shoulder_JNT/L_elbow_JNT/L_wrist_JNT/L_thumb3_JNT/L_thumb2_JNT/L_thumb1_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/neck_2_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/neck_2_JNT/neck_1_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/neck_2_JNT/neck_1_JNT/head_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/neck_2_JNT/neck_1_JNT/jaw_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/neck_2_JNT/neck_1_JNT/L_eye_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/neck_2_JNT/neck_1_JNT/R_eye_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_index4_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_index4_JNT/R_index3_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_index4_JNT/R_index3_JNT/R_index2_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_index4_JNT/R_index3_JNT/R_index2_JNT/R_index1_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_middle4_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_middle4_JNT/R_middle3_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_middle4_JNT/R_middle3_JNT/R_middle2_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_middle4_JNT/R_middle3_JNT/R_middle2_JNT/R_middle1_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_pinky4_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_pinky4_JNT/R_pinky3_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_pinky4_JNT/R_pinky3_JNT/R_pinky2_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_pinky4_JNT/R_pinky3_JNT/R_pinky2_JNT/R_pinky1_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_ring4_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_ring4_JNT/R_ring3_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_ring4_JNT/R_ring3_JNT/R_ring2_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_ring4_JNT/R_ring3_JNT/R_ring2_JNT/R_ring1_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_thumb3_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_thumb3_JNT/R_thumb2_JNT
+    m_Weight: 0
+  - m_Path: spine_3_JNT/spine_2_JNT/spine_1_JNT/R_clavicle_JNT/R_shoulder_JNT/R_elbow_JNT/R_wrist_JNT/R_thumb3_JNT/R_thumb2_JNT/R_thumb1_JNT
+    m_Weight: 0
